@@ -3,7 +3,7 @@
 ## About
 
 Welcome to the realm of shells with MiniShell, your gateway to the world of text-based interfaces that empower you to interact effortlessly with your operating system.<br />
-This was without any doubt the most challenging project so far, because Shelly encompass distinct and well-defined behaviors in nearly every scenario, demanding careful handling.
+This was without any doubt the most challenging project so far, because Shell encompass distinct and well-defined behaviors in nearly every scenario, demanding careful handling.
 Made together with [ZPedro99](https://github.com/ZPedro99).
 
 ⚠️***This is Minishell and not Bash 2.0, it is possible to find small errors in the project***⚠️
